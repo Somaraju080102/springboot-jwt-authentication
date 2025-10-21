@@ -82,8 +82,7 @@ src/
 **Somaraju Indukuri**  
 Java | Spring Boot | REST APIs | Security | MySQL  
 
-📫 Connect on [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/somaraju-indukuri-b5148a216/
-)) or [GitHub]([https://github.com](https://github.com/Somaraju080102))
+📫 Connect on [LinkedIn]((https://www.linkedin.com/in/somaraju-indukuri-b5148a216/)) or [GitHub]([https://github.com](https://github.com/Somaraju080102))
 
 ---
 
