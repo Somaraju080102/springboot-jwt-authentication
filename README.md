@@ -21,7 +21,7 @@ It provides secure access control for REST APIs without using session storage.
 - **Spring Security 6**
 - **JWT (io.jsonwebtoken)**
 - **Spring Data JPA**
-- **MySQL / H2 Database**
+- **PostgresSQL**
 - **Maven**
 - **Java 17+**
 
@@ -80,7 +80,7 @@ src/
 
 ## 🧑‍💻 Author
 **Somaraju Indukuri**  
-Java | Spring Boot | REST APIs | Security | MySQL  
+Java | Spring Boot | REST APIs | Security | PostgresSQL  
 
 📫 Connect on [LinkedIn](https://www.linkedin.com/in/somaraju-indukuri-b5148a216/) or [GitHub](https://github.com/Somaraju080102)
 
